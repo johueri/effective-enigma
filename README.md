@@ -1,5 +1,5 @@
-# Effective-enigma
+ # :sparkles: Effective-enigma :sparkles:
 
-This is your GitHub meet up repo.
+:sparkles: This is your GitHub meet up repo. :sparkles:
 
 :smile:
